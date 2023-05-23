@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RanaAzhar0/react-portfolio/static/css/main.ee3d030f.css",
+    "main.js": "/RanaAzhar0/react-portfolio/static/js/main.cd8848a3.js",
+    "static/media/img-2.jpg": "/RanaAzhar0/react-portfolio/static/media/img-2.38b9339fc74c3867c872.jpg",
+    "static/media/4-pro.jpg": "/RanaAzhar0/react-portfolio/static/media/4-pro.0f31d1a74b9384780bef.jpg",
+    "static/media/img0-1.jpg": "/RanaAzhar0/react-portfolio/static/media/img0-1.9cb590376ea604aeb1f5.jpg",
+    "static/media/wine-shope.jpg": "/RanaAzhar0/react-portfolio/static/media/wine-shope.5ab6202c61b80154ad56.jpg",
+    "static/media/mobile .jpg": "/RanaAzhar0/react-portfolio/static/media/mobile .f35d52b54b3b347a5dd2.jpg",
+    "static/media/neo-reach.jpg": "/RanaAzhar0/react-portfolio/static/media/neo-reach.8c66eb84ad62b22ef912.jpg",
+    "static/media/reaT-form.jpg": "/RanaAzhar0/react-portfolio/static/media/reaT-form.f1c062b68ef5e7e01e6c.jpg",
+    "static/media/img-01.webp": "/RanaAzhar0/react-portfolio/static/media/img-01.c4a61fc2b90ca2d91f94.webp",
+    "static/media/kick.wav": "/RanaAzhar0/react-portfolio/static/media/kick.1d842c5565abcec54198.wav",
+    "static/media/logo-react.svg": "/RanaAzhar0/react-portfolio/static/media/logo-react.18a078688112fe97bd7c3b5250e95922.svg",
+    "static/media/logo-nodejs.svg": "/RanaAzhar0/react-portfolio/static/media/logo-nodejs.b833b270312100720ca5027688032856.svg",
+    "index.html": "/RanaAzhar0/react-portfolio/index.html",
+    "static/media/logo-css3.svg": "/RanaAzhar0/react-portfolio/static/media/logo-css3.4eb6c56fea983e3fbe54d053bbd52591.svg",
+    "static/media/logo-html5.svg": "/RanaAzhar0/react-portfolio/static/media/logo-html5.0b82e4dac95f2d8597fbcdab65bad510.svg",
+    "main.ee3d030f.css.map": "/RanaAzhar0/react-portfolio/static/css/main.ee3d030f.css.map",
+    "main.cd8848a3.js.map": "/RanaAzhar0/react-portfolio/static/js/main.cd8848a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3d030f.css",
+    "static/js/main.cd8848a3.js"
+  ]
+}
